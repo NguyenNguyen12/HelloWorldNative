@@ -1,5 +1,5 @@
 
-#include "lib.cpp";
+#include "mylib.h";
 
 int main() {
 
