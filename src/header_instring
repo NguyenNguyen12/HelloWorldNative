@@ -1,0 +1,18 @@
+BMP Header Type: BM
+bfSize: 818058
+bfOffBits: 138
+biSize: 124
+biWidth: 640
+biHeight: 426
+biPlanes: 1
+biBitCount: 24
+biCompression: 0
+biSizeImage: 817920
+biXPelsPerMeter: 0
+biYPelsPerMeter: 0
+biClrUsed: 0
+biClrImportant: 0
+Corner of pix b 0
+Corner of pix g 0
+Corner of pix r 4294967228
+size of total pix is: 28928
