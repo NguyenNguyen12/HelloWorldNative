@@ -6,11 +6,9 @@
 #include <stdint.h>
 #include <string.h>
 
+void img_steno(char* message, char* filename);
+void img_steno_decode(char* filename);
+void xor_key_message(char* key, char* ciphertext);
 void myfun(char* name);
-
-int bit_shift_right(int value, int shift);
-int bit_shift_left(int value, int shift);
-void img_copy(const char* message, const char* filename);
-void xor_key_message(const char* key, const char* ciphertext);
 
 #endif
